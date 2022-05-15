@@ -1,0 +1,7 @@
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\obj\Debug\nanocore vaccine.csproj.AssemblyReference.cache
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\obj\Debug\nanocore vaccine.csproj.CoreCompileInputs.cache
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\bin\Debug\nanocore vaccine.exe.config
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\bin\Debug\nanocore vaccine.exe
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\bin\Debug\nanocore vaccine.pdb
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\obj\Debug\nanocore vaccine.exe
+C:\Users\Magnu\source\repos\nanocore vaccine\nanocore vaccine\obj\Debug\nanocore vaccine.pdb
